@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miguel Díaz, a Math teacher
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning GitHub, JavaScript, CSS, Python, etc
-- 💞️ I’m looking to collaborate on different projects and would like to develop my projects.
+- 💞️ I’m looking to collaborate on different projects and would like to develop my projects
 - 📫 How to reach me: midc2001@gmail.com
 
 <!---
